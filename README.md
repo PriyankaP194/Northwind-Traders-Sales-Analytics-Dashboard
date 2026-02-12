@@ -5,13 +5,13 @@ Developed an end-to-end sales analytics solution using SQL and Power BI to trans
 
 🎯 Objectives
 
-Identify top revenue-driving products and categories
+- Identify top revenue-driving products and categories
 
-Analyze sales distribution by country
+- Analyze sales distribution by country
 
-Measure employee sales performance
+- Measure employee sales performance
 
-Evaluate customer revenue concentration
+- Evaluate customer revenue concentration
 
 🛠 Tech Stack
 
