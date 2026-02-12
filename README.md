@@ -1,4 +1,4 @@
-# Northwind-Traders-Sales-Analysis
+# Northwind-Traders-Sales-Analytics-Dashboard
 🔎 Project Overview
 
 Developed an end-to-end sales analytics solution using SQL and Power BI to transform Northwind’s transactional data into actionable business insights. The dashboard enables data-driven decisions across products, customers, and regions.
