@@ -3,7 +3,7 @@
 
 Developed an end-to-end sales analytics solution using SQL and Power BI to transform Northwind’s transactional data into actionable business insights. The dashboard enables data-driven decisions across products, customers, and regions.
 
-🎯 Objectives
+##🎯 Objectives
 
 - Identify top revenue-driving products and categories
 - Analyze sales distribution by country
