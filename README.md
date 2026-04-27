@@ -10,7 +10,7 @@ Developed an end-to-end sales analytics solution using SQL and Power BI to trans
 - Measure employee sales performance
 - Evaluate customer revenue concentration
 
-🛠 Tech Stack
+🛠 Tools Used
 
 - SQL | Power BI | DAX | Excel
 
